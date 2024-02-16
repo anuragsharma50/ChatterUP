@@ -1,4 +1,4 @@
-# CjatterUP
+# ChatterUP
 
 # Preview
 
